@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de tiempo</string>
+    <string name="titulo">Time converter</string>
+    <string name="sec">Seconds</string>
+    <string name="min">Minutes</string>
+    <string name="hrs">Hours</string>
+    <string name="yrs">Years</string>
+    <string name="LR">Results list</string>
+</resources>

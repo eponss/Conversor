@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de tiempo</string>
+    <string name="titulo">Conversor de tiempo</string>
+    <string name="sec">Segundos</string>
+    <string name="min">Minutos</string>
+    <string name="hrs">Horas</string>
+    <string name="yrs">Años</string>
+    <string name="LR">Lista de resultados</string>
+</resources>
